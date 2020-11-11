@@ -5,7 +5,7 @@ Typography layout and animation toolkit in TouchDesigner
 TouchDesigner as a platform has plenty of character, however it lacks out-of-the-box *per*-character text transformations, such as kerning and animation. The aim of this project is to provide TD devs a toolkit to rapidly iterate professional, interactive text layouts and animations in TD.
 
 ## Status
-In Development.. Stay tuned for updates.
+🚧 In Development.. Stay tuned for updates.
 
 ## Planned Features
 - Per-character/word adjustments
