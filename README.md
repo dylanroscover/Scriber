@@ -1,4 +1,4 @@
-# 📖 Scriber ✏️
+# 📖 ✏️ Scriber 
 Typography layout, style and animation toolkit in TouchDesigner
 
 ## 📝 Why
