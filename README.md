@@ -1,16 +1,22 @@
 # 📖 ✏️ Scriber 
 Typography layout, style and animation toolkit in TouchDesigner
 
-## 📝 Why
+## Why
 TouchDesigner as a platform has plenty of character, however it lacks out-of-the-box *per*-character text transformations, such as kerning and animation. The aim of this component is to provide TD devs a toolkit to rapidly iterate professional, interactive text layouts and animations in TD.
 
-## 📝 Status
-- 🚧 In Development
-    * Basic kerning implemented
-    * Currently working on init of animation
-- 💾 TouchDesigner 2020.26630 Win 64 
+##  Status
+- 📝 Current Implementations
+    * Basic kerning
+    * Basic animation (in/out)
+- 🚧 In Development/Planned
+    * Multi-line text
+    * Per-word transformations
+    * Colour
+- 💾 Software
+    * TouchDesigner 2020.26630 
+    * Tested on Win 64 
 
-## 📝 Planned Features
+## Planned Features
 - Per-character/word transformations
     * colour
     * size
@@ -21,8 +27,8 @@ TouchDesigner as a platform has plenty of character, however it lacks out-of-the
         * translate (xyz)
         * rotate (xyz)
         * scale (xy)
-        * pivot (xyz)
+        * colour (rgba)
 
-## 📝 Thanks
+## Thanks
 - [Elburz](https://interactiveimmersive.io)
 - David Braun for Phaser CHOP
