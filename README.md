@@ -4,7 +4,7 @@ Typography layout, style and animation toolkit in TouchDesigner
 ## Why
 TouchDesigner as a platform has plenty of character, however it lacks out-of-the-box *per*-character text transformations, such as kerning and animation. The aim of this component is to provide TD devs a toolkit to rapidly iterate type for motion graphics animations in TD.
 
-![Scriber](/img/scriberScreenshot.png)
+![Scriber](/img/scriberScreenshot1.png)
 
 ##  Status
 - 📝 Current Implementations
