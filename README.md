@@ -10,15 +10,13 @@ TouchDesigner as a platform has plenty of character, however it lacks out-of-the
 - 📝 Current Implementations
     * Basic kerning
     * Basic animation (in/out)
-- 🚧 In Development/Planned
-    * Multi-line text
-    * Per-word transformations
-    * Colour
+
 - 💾 Software
     * TouchDesigner 2021.13610 
     * Tested on Win 10 x64 
 
-## Planned Features
+## 🚧 Planned Features
+- Position/rotations on 2d/3d paths ("Type on a Path")
 - Per-character/word transformations
     * colour
     * size
