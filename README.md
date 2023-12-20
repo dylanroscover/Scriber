@@ -3,6 +3,7 @@ Typography layout, style and animation toolkit in TouchDesigner
 
 #### :floppy_disk: TouchDesigner 2023.11290 (Windows)
 #### :floppy_disk: version 0.5.7
+#### :floppy_disk: requires ![Tweener](https://derivative.ca/community-post/asset/tweening-tweener-python-based-solution/65629) by Jason Latta
 
 ## Why
 TouchDesigner (TD) as a platform has plenty of character, however it lacks out-of-the-box *per*-character text transformations, such as kerning and animation. The aim of this component is to provide TD devs a toolkit to rapidly iterate type for motion graphics animations in TD.
