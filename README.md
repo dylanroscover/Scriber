@@ -2,7 +2,7 @@
 Typography layout, style and animation toolkit in TouchDesigner
 
 #### :floppy_disk: TouchDesigner 2023.11340 (Windows)
-#### :floppy_disk: version 0.5.23
+#### :floppy_disk: version 0.5.31
 #### :floppy_disk: requires [Tweener](https://derivative.ca/community-post/asset/tweening-tweener-python-based-solution/65629) by Jason Latta
 
 ## Why
