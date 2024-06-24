@@ -1,4 +1,4 @@
-# 📖 ✏️ Scriber 
+# ✏️ Scriber 
 
 Typography layout, style and animation toolkit in TouchDesigner
 
@@ -6,7 +6,7 @@ Typography layout, style and animation toolkit in TouchDesigner
 #### :floppy_disk: version 0.5.86
 #### :floppy_disk: requires [Tweener](https://derivative.ca/community-post/asset/tweening-tweener-python-based-solution/65629) by Jason Latta
 
-## Overview
+## 📖 Overview
 
 Scriber enhances TouchDesigner's typography capabilities by providing per-character text transformations and animations. It aims to facilitate rapid iteration of type for motion graphics within TD.
 
